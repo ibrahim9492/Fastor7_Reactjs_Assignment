@@ -4,7 +4,7 @@ A Progressive Web Application (PWA) built with React.js that demonstrates modern
 
 ### Live Project
 
-- **Link**: https://psaiprathap-fastor7-assignment.netlify.app
+- **Link**: https://fastor7-reactjs-assignment.vercel.app
 
 ## Features
 
@@ -76,8 +76,8 @@ fastor-reactjs-assignment/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PSaiPrathap/Fastor7-Reactjs-Assignment
-   cd fastor-reactjs-assignment
+   git clone https://github.com/ibrahim9492/Fastor7_Reactjs_Assignment
+   cd Fastor7_Reactjs_Assignment
    ```
 
 2. **Install dependencies**
